@@ -8,18 +8,18 @@ URL: http://d.hatena.ne.jp/tt_clown/
 Last-updated: Mon 27 Sep 2010 07:39:00 JST
 ------------------------------------------------------------
 
-��What's this
-Image2WebP �́C�e��摜�t�H�[�}�b�g���� Google �����\�����V����
-�摜�t�H�[�}�b�g�ł��� WebP �֕ϊ����� GUI ���b�p�[�v���O����
-�ł��D���ۂ̕ϊ������ɂ́CGoogle ���񋟂���Ă��� webconv.exe
-�𗘗p���Ă��܂��D
+■What's this
+Image2WebP は，各種画像フォーマットから Google が発表した新しい
+画像フォーマットである WebP へ変換する GUI ラッパープログラム
+です．実際の変換処理には，Google より提供されている webconv.exe
+を利用しています．
 http://code.google.com/speed/webp/
 
-Image2WebP ���g�p���邽�߂ɂ́AMicrosoft .NetFramework 2.0 ��
-�C���X�g�[������Ă���K�v������܂��B
-Microsoft .NetFramework 2.0 �́A�ȉ��� URL ����_�E�����[�h���ĉ������B
+Image2WebP を使用するためには、Microsoft .NetFramework 2.0 が
+インストールされている必要があります。
+Microsoft .NetFramework 2.0 は、以下の URL からダウンロードして下さい。
 http://www.microsoft.com/downloads/details.aspx?FamilyId=0856eacb-4362-4b0d-8edd-aab15c5e04f5&displaylang=ja
 
-���o�[�W��������
+■バージョン履歴
 2010/10/02 version 1.0.0
-- �ŏ��̌��J�o�[�W����
+- 最初の公開バージョン
